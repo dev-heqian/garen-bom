@@ -65,7 +65,7 @@
         <shardingsphere.version>5.1.2</shardingsphere.version>
         <spring-cloud.version>2021.0.3</spring-cloud.version>
         <spring-cloud-alibaba.version>2021.1</spring-cloud-alibaba.version>
-        <springdoc.version>1.6.9</springdoc.version>
+        <springdoc.version>1.6.11</springdoc.version>
         <thrift.version>0.16.0</thrift.version>
     </properties>
 
