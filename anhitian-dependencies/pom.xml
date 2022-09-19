@@ -57,7 +57,7 @@
         <javacv.version>1.5.7</javacv.version>
         <jjwt.version>0.11.5</jjwt.version>
         <mapstruct.version>1.5.2.Final</mapstruct.version>
-        <minio.version>8.4.3</minio.version>
+        <minio.version>8.4.4</minio.version>
         <mybatis-plus.version>3.5.2</mybatis-plus.version>
         <okhttp.version>4.10.0</okhttp.version>
         <opencsv.version>5.6</opencsv.version>
