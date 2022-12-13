@@ -46,7 +46,7 @@
         <commons-codec.version>1.15</commons-codec.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <commons-io.version>2.11.0</commons-io.version>
-        <druid.version>1.2.11</druid.version>
+        <druid.version>1.2.15</druid.version>
         <easyexcel.version>3.1.3</easyexcel.version>
         <fastjson.version>2.0.21</fastjson.version>
         <flowable.version>6.7.2</flowable.version>
