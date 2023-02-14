@@ -44,7 +44,7 @@
         <apache-httpclient.version>4.5.14</apache-httpclient.version>
         <apache-httpmime.version>4.5.14</apache-httpmime.version>
         <commons-codec.version>1.15</commons-codec.version>
-        <commons-fileupload.version>1.4</commons-fileupload.version>
+        <commons-fileupload.version>1.5</commons-fileupload.version>
         <commons-io.version>2.11.0</commons-io.version>
         <druid.version>1.2.15</druid.version>
         <easyexcel.version>3.2.0</easyexcel.version>
